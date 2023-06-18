@@ -6,13 +6,13 @@
 
 <h3 align="left">Documents :</h3
 
-- <a href="https://github.com/1ttikorn/document-git">สรุป HTML ฉบับสมบูรณ์ (comming soon)</a>
-- <a href="https://github.com/1ttikorn/">สรุป CSS ฉบับสมบูรณ์ (comming soon)</a>
-- <a href="https://github.com/1ttikorn/">สรุป Javascript ฉบับสมบูรณ์ (comming soon)</a>
-- <a href="https://github.com/1ttikorn/">สรุป TypeScript ฉบับสมบูรณ์ (comming soon)</a>
-- <a href="https://github.com/1ttikorn/">วิธีใช้ Bootstrap ฉบับสมบูรณ์ (comming soon)</a>
-- <a href="https://github.com/1ttikorn/">วิธีใช้  Git ฉบับสมบูรณ์ (comming soon)</a>
-- <a href="https://github.com/1ttikorn/">สรุปการใช้ Node.js ฉบับสมบูรณ์ (comming soon)</a>
+- <a href="https://github.com/1ttikorn/document-git">สรุป HTML ฉบับสมบูรณ์ (comming soon)</a>- <a align="right" href="https://github.com/1ttikorn/document-git">สรุป HTML ฉบับสมบูรณ์ (comming soon)</a>
+- <a href="https://github.com/1ttikorn/">สรุป CSS ฉบับสมบูรณ์</a>
+- <a href="https://github.com/1ttikorn/">สรุป Javascript ฉบับสมบูรณ์</a>
+- <a href="https://github.com/1ttikorn/">สรุป TypeScript ฉบับสมบูรณ์</a>
+- <a href="https://github.com/1ttikorn/">วิธีใช้ Bootstrap ฉบับสมบูรณ์</a>
+- <a href="https://github.com/1ttikorn/">วิธีใช้  Git ฉบับสมบูรณ์</a>
+- <a href="https://github.com/1ttikorn/">สรุปการใช้ Node.js ฉบับสมบูรณ์</a>
 
 <h3 align="left">Languages and Tools :</h3
 
