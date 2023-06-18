@@ -6,7 +6,7 @@
 
 <h3 align="left">Documents :</h3
   
-- <a href="https://github.com/1ttikorn/document-git">เตรียมตัว</a>
+- <a href="https://github.com/1ttikorn/document-git">0. เตรียมตัว</a>
 - <a href="https://github.com/1ttikorn/document-git">1. สรุปการใช้งาน HTML และ CSS</a>
 - <a href="https://github.com/1ttikorn/">2. สรุปการใช้งาน Javascript และ TypeScript</a>
 - <a href="https://github.com/1ttikorn/">3. วิธีใช้ Bootstrap ฉบับสมบูรณ์</a>
