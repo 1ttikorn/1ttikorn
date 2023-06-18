@@ -28,9 +28,7 @@
 
 
 ### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com?user=1ttikorn&hide_border=true&type=png)](https://git.io/streak-stats)
-
-<p>𝗟𝗮𝘀𝘁 𝗘𝗱𝗶𝘁𝗲𝗱 𝗢𝗻: 19/06/2023</p> 
+[![GitHub Streak](https://streak-stats.demolab.com?user=1ttikorn&type=png)](https://git.io/streak-stats)
 
 <img src="https://komarev.com/ghpvc/?username=1ttikorn&label=Profile%20views&color=0e75b6&style=flat"  align="right" alt="1ttikorn" /> </p>
 
