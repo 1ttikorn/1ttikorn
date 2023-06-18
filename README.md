@@ -13,7 +13,7 @@
 - <a href="https://github.com/1ttikorn/">4. สรุป TypeScript สำหรับใช้งานจริง</a>
 - <a href="https://github.com/1ttikorn/">5. การใช้ Bootstrap ฉบับสมบูรณ์</a>
 - <a href="https://github.com/1ttikorn/">6. การใช้ Git ฉบับสมบูรณ์</a>
-- <a href="https://github.com/1ttikorn/">7. สรุปการใช้ Node.js</a>
+- <a href="https://github.com/1ttikorn/">7. สรุปการใช้ Node.js ฉบับใช้งานจริง</a>
 
 <h3 align="left">Languages and Tools :</h3
 
