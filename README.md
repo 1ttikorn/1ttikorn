@@ -6,7 +6,7 @@
 
 <h3 align="left">Documents :</h3
 
-- <a href="">สรุปคำสั่งใช้งาน Git</a>
+- <a href="">สรุปคำสั่งใช้งาน Git ฉบับสมบูรณ์</a>
 - <a href=""></a>
 
 
