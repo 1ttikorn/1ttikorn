@@ -6,12 +6,12 @@
 
 <h3 align="left">Documents :</h3
   
-- <a href="https://github.com/1ttikorn/document-git">0. เตรียมตัว</a>
+- <a href="https://github.com/1ttikorn/document-html-css">0. เตรียมตัว</a>
 - <a href="https://github.com/1ttikorn/document-git">1. สรุปการใช้งาน HTML และ CSS</a>
 - <a href="https://github.com/1ttikorn/">2. สรุปการใช้งาน Javascript และ TypeScript</a>
 - <a href="https://github.com/1ttikorn/">3. วิธีใช้ Bootstrap ฉบับสมบูรณ์</a>
 - <a href="https://github.com/1ttikorn/">4. สรุป Vue.js ฉบับใช้งานจริง</a>
-- <a href="https://github.com/1ttikorn/">5. วิธีใช้ Command และ Git ฉบับสมบูรณ์</a>
+- <a href="https://github.com/1ttikorn/document-git">5. วิธีใช้ Command และ Git ฉบับสมบูรณ์</a>
 - <a href="https://github.com/1ttikorn/">6. สรุปการใช้งานจริง Node.js</a>
 - <a href="https://github.com/1ttikorn/">7. ฐานข้อมูล MongoDB ฉบับใช้งานจริง</a>
 - <a href="https://github.com/1ttikorn/">8. ฐานข้อมูล MySQL ฉบับใช้งานจริง</a>
