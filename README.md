@@ -9,11 +9,6 @@
 - <a href="">สรุปคำสั่งใช้งาน Git</a>
 - <a href=""></a>
 
-<h3 align="left">Template :</h3
-
-- <a href=""> </a>
-- <a href=""> </a>
-
 
 <h3 align="left">Languages and Tools :</h3
 
