@@ -7,13 +7,12 @@
 <h3 align="left">Documents :</h3
 
 - <a href="https://github.com/1ttikorn/document-git">สรุป HTML ฉบับสมบูรณ์ (comming soon)</a>
-- <a href="https://github.com/1ttikorn/document-git">สรุป CSS ฉบับสมบูรณ์ (comming soon)</a>
-- <a href="https://github.com/1ttikorn/document-git">สรุป Javascript ฉบับสมบูรณ์ (comming soon)</a>
-- <a href="https://github.com/1ttikorn/document-git">สรุป TypeScript ฉบับสมบูรณ์ (comming soon)</a>
-- <a href="https://github.com/1ttikorn/document-git">สรุปการใช้งาน Bootstrap ฉบับสมบูรณ์ (comming soon)</a>
-- <a href="https://github.com/1ttikorn/document-git">สรุปการใช้งาน Git ฉบับสมบูรณ์ (comming soon)</a>
-- <a href=""></a>
-
+- <a href="https://github.com/1ttikorn/">สรุป CSS ฉบับสมบูรณ์ (comming soon)</a>
+- <a href="https://github.com/1ttikorn/">สรุป Javascript ฉบับสมบูรณ์ (comming soon)</a>
+- <a href="https://github.com/1ttikorn/">สรุป TypeScript ฉบับสมบูรณ์ (comming soon)</a>
+- <a href="https://github.com/1ttikorn/">สรุปการใช้งาน Bootstrap ฉบับสมบูรณ์ (comming soon)</a>
+- <a href="https://github.com/1ttikorn/">สรุปการใช้งาน Git ฉบับสมบูรณ์ (comming soon)</a>
+- <a href="https://github.com/1ttikorn/">สรุปการใช้งาน Node.js ฉบับสมบูรณ์ (comming soon)</a>
 
 <h3 align="left">Languages and Tools :</h3
 
@@ -24,6 +23,9 @@
 
 ### :fire: My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com?user=1ttikorn&hide_border=true&type=png)](https://git.io/streak-stats)
-<p>𝗟𝗮𝘀𝘁 𝗘𝗱𝗶𝘁𝗲𝗱 𝗢𝗻: 18/06/2023</p> <img src="https://komarev.com/ghpvc/?username=1ttikorn&label=Profile%20views&color=0e75b6&style=flat"  align="right" alt="1ttikorn" /> </p>
+
+<p>𝗟𝗮𝘀𝘁 𝗘𝗱𝗶𝘁𝗲𝗱 𝗢𝗻: 19/06/2023</p> 
+
+<img src="https://komarev.com/ghpvc/?username=1ttikorn&label=Profile%20views&color=0e75b6&style=flat"  align="right" alt="1ttikorn" /> </p>
 
 
