@@ -1,5 +1,4 @@
-# Hi, I'm Ittikorn! 👋
-I'm a full stack developer...
+# Hi, I'm a Full Stack Developer! 👋
 
 <p align="left">
 </p>
