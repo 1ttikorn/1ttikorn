@@ -10,9 +10,9 @@
 - <a href="https://github.com/1ttikorn/">สรุป CSS ฉบับสมบูรณ์ (comming soon)</a>
 - <a href="https://github.com/1ttikorn/">สรุป Javascript ฉบับสมบูรณ์ (comming soon)</a>
 - <a href="https://github.com/1ttikorn/">สรุป TypeScript ฉบับสมบูรณ์ (comming soon)</a>
-- <a href="https://github.com/1ttikorn/">สรุปการใช้งาน Bootstrap ฉบับสมบูรณ์ (comming soon)</a>
-- <a href="https://github.com/1ttikorn/">สรุปการใช้งาน Git ฉบับสมบูรณ์ (comming soon)</a>
-- <a href="https://github.com/1ttikorn/">สรุปการใช้งาน Node.js ฉบับสมบูรณ์ (comming soon)</a>
+- <a href="https://github.com/1ttikorn/">วิธีใช้ Bootstrap ฉบับสมบูรณ์ (comming soon)</a>
+- <a href="https://github.com/1ttikorn/">วิธีใช้  Git ฉบับสมบูรณ์ (comming soon)</a>
+- <a href="https://github.com/1ttikorn/">สรุปการใช้ Node.js ฉบับสมบูรณ์ (comming soon)</a>
 
 <h3 align="left">Languages and Tools :</h3
 
