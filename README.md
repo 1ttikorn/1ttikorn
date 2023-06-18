@@ -15,8 +15,8 @@
 - <a href="https://github.com/1ttikorn/">6. สรุปการใช้งานจริง Node.js</a>
 - <a href="https://github.com/1ttikorn/">7. ฐานข้อมูล MongoDB ฉบับใช้งานจริง</a>
 - <a href="https://github.com/1ttikorn/">8. ฐานข้อมูล MySQL ฉบับใช้งานจริง</a>
-- <a href="https://github.com/1ttikorn/">9. วิธีการใช้ Docker ฉบับใช้งานจริง</a>
-- <a href="https://github.com/1ttikorn/">10. วิธีการใช้ Google Cloud ฉบับใช้งานจริง</a>
+- <a href="https://github.com/1ttikorn/">9. วิธีใช้ Docker ฉบับใช้งานจริง</a>
+- <a href="https://github.com/1ttikorn/">10. วิธีใช้ Google Cloud ฉบับใช้งานจริง</a>
 
 
 
