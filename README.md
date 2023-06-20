@@ -4,7 +4,7 @@
 </p>
 
 
-<h3 align="left">Documents :</h3
+<h3 align="left">Documents : (comming soon)</h3
 
 - <a href="https://github.com/1ttikorn/document-html-css">เตรียมตัว</a>
 - <a href="https://github.com/1ttikorn/document-git">1.1 การใช้ Command บนระบบปฏิบัติการต่างๆ</a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/1ttikorn/document-git">1.2 วิธีใช้ Git และ GitHub</a>
