@@ -6,7 +6,7 @@
 
 <h3 align="left">Documents : (comming soon)</h3
 
-- <a href="https://github.com/1ttikorn/document-html-css">เตรียมตัว</a>
+- <a href="https://github.com/1ttikorn/document-html-css">เตรียมตัวก่อนเริ่ม</a>
 - <a href="https://github.com/1ttikorn/document-git">1.1 การใช้ Command บนระบบปฏิบัติการต่างๆ</a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/1ttikorn/document-git">1.2 วิธีใช้ Git และ GitHub</a>
 - <a href="https://github.com/1ttikorn/document-git">2.1 สรุปการใช้ภาษา HTML</a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/1ttikorn/document-git">2.2 สรุปการใช้ภาษา CSS</a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/1ttikorn/document-git">2.3 วิธีใช้ Bootstrap ฉบับสมบูรณ์</a>
 - <a href="https://github.com/1ttikorn/document-git">3.1 สรุปการใช้ภาษา Javascript</a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/1ttikorn/document-git">3.2 สรุปการใช้ภาษา TypeScript</a>
