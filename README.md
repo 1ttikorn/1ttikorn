@@ -5,18 +5,15 @@
 
 
 <h3 align="left">Documents :</h3
-  
-- <a href="https://github.com/1ttikorn/document-html-css">0. เตรียมตัว</a>
-- <a href="https://github.com/1ttikorn/document-git">1. สรุปการใช้งาน HTML และ CSS  { comming soon }</a>
-- <a href="https://github.com/1ttikorn/">2. สรุปการใช้งาน Javascript และ TypeScript  { comming soon }</a>
-- <a href="https://github.com/1ttikorn/">3. วิธีใช้ Bootstrap ฉบับสมบูรณ์  { comming soon }</a>
-- <a href="https://github.com/1ttikorn/">4. สรุป Vue.js ฉบับใช้งานจริง  { comming soon }</a>
-- <a href="https://github.com/1ttikorn/document-git">5. วิธีใช้ Command-line และ Git ฉบับสมบูรณ์</a>
-- <a href="https://github.com/1ttikorn/">6. สรุปการใช้งานจริง Node.js  { comming soon }</a>
-- <a href="https://github.com/1ttikorn/">7. ฐานข้อมูล MongoDB ฉบับใช้งานจริง  { comming soon }</a>
-- <a href="https://github.com/1ttikorn/">8. ฐานข้อมูล MySQL ฉบับใช้งานจริง  {comming soon}</a>
-- <a href="https://github.com/1ttikorn/">9. วิธีใช้ Docker ฉบับใช้งานจริง  { comming soon }</a>
-- <a href="https://github.com/1ttikorn/">10. วิธีใช้ Google Cloud ฉบับใช้งานจริง  { comming soon }</a>
+
+- <a href="https://github.com/1ttikorn/document-html-css">เตรียมตัว</a>
+- <a href="https://github.com/1ttikorn/document-git">1.1 วิธีใช้ Command-line บน Windows และ Git ฉบับสมบูรณ์</a>
+- <a href="https://github.com/1ttikorn/document-git">2.1 สรุปการใช้งาน HTML</a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/1ttikorn/document-git">2.2 สรุปการใช้งาน CSS</a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/1ttikorn/document-git">2.3 วิธีใช้ Bootstrap ฉบับสมบูรณ์</a>
+- <a href="https://github.com/1ttikorn/document-git">2.3 สรุปการใช้งาน Javascript</a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/1ttikorn/document-git">2.4 สรุปการใช้งาน TypeScript</a>
+- <a href="https://github.com/1ttikorn/">3.. สรุป Vue.js ฉบับใช้งานจริง </a>
+- <a href="https://github.com/1ttikorn/">6. สรุปการใช้งานจริง Node.js</a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/1ttikorn/document-git">1.4 สรุปการใช้งาน AJAX</a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/1ttikorn/document-git">1.4 สรุปการใช้งาน JQuery</a>
+- <a href="https://github.com/1ttikorn/">8. สรุปการใช้ฐานข้อมูล MySQL</a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/1ttikorn/document-git">1.4 สรุปการใช้ฐานข้อมูล MongoDB</a>
+- <a href="https://github.com/1ttikorn/">9. วิธีใช้งานบริการ Docker</a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/1ttikorn/document-git">1.4 วิธีใช้งานบริการ Google Cloud</a>
 
 
 
