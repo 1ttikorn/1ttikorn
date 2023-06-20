@@ -9,9 +9,9 @@
 - <a href="https://github.com/1ttikorn/document-html-css">เตรียมตัวก่อนเริ่ม</a>
 - <a href="https://github.com/1ttikorn/document-git">1.1 การใช้ Command บนระบบปฏิบัติการต่างๆ</a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/1ttikorn/document-git">1.2 วิธีใช้ Git และ GitHub</a>
 - <a href="https://github.com/1ttikorn/document-git">2.1 สรุปการใช้ภาษา HTML</a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/1ttikorn/document-git">2.2 สรุปการใช้ภาษา CSS</a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/1ttikorn/document-git">2.3 วิธีใช้ Bootstrap ฉบับสมบูรณ์</a>
-- <a href="https://github.com/1ttikorn/document-git">3.1 สรุปการใช้ภาษา Javascript</a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/1ttikorn/document-git">3.2 สรุปการใช้ภาษา TypeScript</a>
+- <a href="https://github.com/1ttikorn/document-git">3.1 การใช้ภาษา Javascript เบื้องต้น</a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/1ttikorn/document-git">3.2 การใช้ภาษา TypeScript เบื้องต้น</a>
 - <a href="https://github.com/1ttikorn/">4.1 สรุปการใช้ Node.js</a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/1ttikorn/document-git">4.2 สรุปการใช้ AJAX</a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/1ttikorn/document-git">4.3 สรุปการใช้ JQuery</a>
-- <a href="https://github.com/1ttikorn/">5.1 สรุปการใช้เฟรมเวิร์ค Vue.js</a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/1ttikorn/document-git">5.2 สรุปการใช้เฟรมเวิร์ค React</a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/1ttikorn/document-git">5.3 สรุปการใช้เฟรมเวิร์ค Angular</a>
+- <a href="https://github.com/1ttikorn/">5.1 การใช้เฟรมเวิร์ค Vue.js</a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/1ttikorn/document-git">5.2 การใช้เฟรมเวิร์ค React</a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/1ttikorn/document-git">5.3 การใช้เฟรมเวิร์ค Angular</a>
 - <a href="https://github.com/1ttikorn/">6.1. สรุปการใช้ฐานข้อมูล MySQL</a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/1ttikorn/document-git">6.2 สรุปการใช้ฐานข้อมูล MongoDB</a>
 - <a href="https://github.com/1ttikorn/">7.1 วิธีใช้งานบริการ Docker ฉบับใช้งานจริง</a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/1ttikorn/document-git">7.2 วิธีใช้งานบริการ Google Cloud ฉบับใช้งานจริง</a>
 
