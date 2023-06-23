@@ -1,4 +1,4 @@
-# Hi, I'm a Full Stack Developer! 👋
+# Hi, I'm a UX/UI Designer! 👋
 
 <p align="left">
 </p>
