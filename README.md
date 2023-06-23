@@ -1,4 +1,4 @@
-# Hi, I'm a UX/UI Designer! 👋
+# Hi there 👋
 
 <p align="left">
 </p>
