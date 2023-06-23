@@ -7,7 +7,7 @@
 <h3 align="left">Documents for Web Application : (comming soon)</h3
 
 - <a href="https://github.com/1ttikorn/document-prepare/tree/main">เตรียมตัวก่อนเริ่มเขียนเว็บ</a>
-- <a>1.1 การใช้ Command บนระบบปฏิบัติการต่างๆ</a>&nbsp;&nbsp;&nbsp;<a>1.2 วิธีใช้ Git และ GitHub</a>
+- <a href="https://github.com/1ttikorn/document-command">1.1 การใช้ Command บนระบบปฏิบัติการต่างๆ</a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/1ttikorn/document-git">1.2 วิธีใช้ Git และ GitHub</a>
 - <a>2.1 สรุปการใช้ภาษา HTML</a>&nbsp;&nbsp;&nbsp;<a>2.2 สรุปการใช้ภาษา CSS</a>&nbsp;&nbsp;&nbsp;<a>2.3 วิธีใช้ Bootstrap ฉบับสมบูรณ์</a>
 - <a>3.1 การใช้ภาษา Javascript เบื้องต้น</a>&nbsp;&nbsp;&nbsp;<a>3.2 การใช้ภาษา TypeScript เบื้องต้น</a>
 - <a>4.1 สรุปการใช้ Node.js</a>&nbsp;&nbsp;&nbsp;<a>4.2 สรุปการใช้ AJAX</a>&nbsp;&nbsp;&nbsp;<a>4.3 สรุปการใช้ JQuery</a>
